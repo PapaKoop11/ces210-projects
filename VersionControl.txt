@@ -1,0 +1,17 @@
+Version Control explanation by Michael Wynkoop
+
+
+Version Control is a system to allow the tracking of changes made to your code and/or other
+files. It also allows for members of a team to coordinate their projects.
+
+One of the benefits of Version Control is keeping a history of changes that are made. Different people can be 
+working on their own branch of a project without impacting other team members code. This allows for better 
+collaboration. Once you know your code works locally, it can then be shared safely.
+
+Version Control works well when there are several people working on the same project. A project manager can 
+incorporate a change from a branch to see how it affects the overall project. Several team mates could have 
+different approaches. Using a distributed version control system like git being served on GitHub.com, those 
+approaches can be tested without having to break the main program.
+
+The command "git clone -name-of-the-repositiory" will create a copy of the project named name-of-the-repositiory
+which is located on GitHub.com onto your local computer.
